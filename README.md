@@ -20,8 +20,7 @@ I am a full stack developer. I am always enthusiastic about new creative project
 - 🌱 I’m currently in love with <b>Web</b>
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **amanrwtsre@gmail.com** 
-- ⚡ Fun fact: I love riding and travelling to explore new places.
-- </br>
+- ⚡ Fun fact: I love riding and travelling to explore new places.</br>
 
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
