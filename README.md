@@ -29,7 +29,6 @@ I am a full stack developer. I am always enthusiastic about new creative project
 - any collobration work,
 - development projects,
 - internships
-- 
 <details>
    <summary>📃 Resume</summary>
 
