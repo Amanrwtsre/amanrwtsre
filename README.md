@@ -7,7 +7,7 @@
 
 I am a full stack developer. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akankushjnvku&label=Profile%20views&color=32CD32&style=flat" alt="akankushjnvku" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amanrwtsre&label=Profile%20views&color=32CD32&style=flat" alt="Amanrwtsre" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
